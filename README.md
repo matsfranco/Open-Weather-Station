@@ -11,10 +11,10 @@ A LAMP server was used in this project.
 - Luminance (BH1750)
 - Light Level (LDR)
 
-![sensor-probe](/images/sensor-probe.jpg)
+![sensor-probe](/images/sensor-probe.jpeg)
 
 Sensor Probe
 
-![arduino-box](/images/arduino-box.jpg)
+![arduino-box](/images/arduino-box.jpeg)
 
 Arduino Uno box
